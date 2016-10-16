@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <config>
-    <!--日志报错路径-->
-    <logname>../pylog.log</logname>
+    <!--日志名称-->
+    <logname>pylog.log</logname>
 
     <!--日志文件的大小，单位MB-->
     <logsize>1</logsize>
